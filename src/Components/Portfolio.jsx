@@ -133,11 +133,11 @@ export default function Portfolio() {
 
                         <div className="pr">
                             <div className="p">
-                               <a href="https://wendictionary.netlify.app/" target="_blank">WebDictionary</a>
+                               <a href="https://wendictionary.netlify.app/" target="_blank">Dictionary</a>
                             </div>
 
                             <div className="p">
-                              <a href="https://github.com/RAHUL676789/Delta-Projects" target="_blank">SimonSaysGames</a>
+                              <a href="https://github.com/RAHUL676789/Delta-Projects" target="_blank">SimonSay</a>
                             </div>
                         </div>
 
