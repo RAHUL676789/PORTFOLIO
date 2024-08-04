@@ -312,7 +312,7 @@ h4 {
 }
 
 .mernP .p {
-    padding: 2.5rem;
+    padding: 3rem;
     width: 30%;
 
 }
@@ -354,6 +354,7 @@ h4 {
 .p a {
     text-decoration: none;
     color: white;
+    margin: 1rem;
 }
 
 .p a {
