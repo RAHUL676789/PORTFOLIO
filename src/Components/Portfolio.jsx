@@ -146,10 +146,10 @@ export default function Portfolio() {
                         <h1>REACT PROJECT</h1>
                         <div className="pr">
                             <div className="p">
-                             <a href="https://rcalendarwithreact.netlify.app/" target="_blank">CalendarApp</a>
+                             <a href="https://rcalendarwithreact.netlify.app/" target="_blank">Calendar</a>
                             </div>
                             <div className="p">
-                              <a href="https://rasuswebsite.netlify.app" target="_blank">RahulWebTech</a>
+                              <a href="https://rasuswebsite.netlify.app" target="_blank">WebNews</a>
                             </div>
                             <div className="p">
                               <a href="https://glowing-paletas-92eb75.netlify.app/" target="_blank">WeatherApp</a>
