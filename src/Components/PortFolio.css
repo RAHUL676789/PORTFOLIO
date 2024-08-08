@@ -408,7 +408,13 @@ margin-right: 1rem;
     /* font-size: 2rem; */
 }
 
+.SQL{
+    color: rgb(27, 27, 27);
+}
 
+.BTS{
+    color: rgb(150, 7, 128);
+}
 .formData {
     position: absolute;
     display: flex;
